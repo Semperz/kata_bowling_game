@@ -1,2 +1,2 @@
-# kata_bowling_game
+# Kata Bowling Game
 Segundo kata para practicar POO
